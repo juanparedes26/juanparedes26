@@ -39,7 +39,7 @@
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| [**SkillMatch**](https://github.com/tuusuario/SkillMatch) | Plataforma de servicios freelance local inspirada en Upwork. | FastAPI / SQLAlchemy / React |
+| [**SkillMatch**](https://github.com/juanparedes26/Skill_Match2025) | Plataforma de servicios freelance local inspirada en Upwork. | FastAPI / SQLAlchemy / React |
 | [**Portafolio Personal**](https://tuusuario.github.io/) | Muestra de proyectos, habilidades y CV descargable. | React / TailwindCSS |
 | [**Gestor de Tareas**](https://github.com/tuusuario/todo-app) | Aplicación CRUD simple para gestión de tareas. | Flask / PostgreSQL / Bootstrap |
 
