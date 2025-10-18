@@ -1,4 +1,7 @@
-<h1 align="center">👋 ¡Hola! I'm <span style="color:#00bcd4">Juan Manuel Paredes</span></h1>
+<!-- ✨ Encabezado animado con typing effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=👋+Hola!+Soy+Juan+Manuel+Paredes;Full+Stack+Developer;Ingeniero+Mecatrónico;Apasionado+por+aprender+y+crear" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <b>Full Stack Developer | Ingeniero Mecatrónico</b><br>
@@ -51,6 +54,15 @@
 
 ---
 
+## 📊 Mis estadísticas / My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanparedes26&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanparedes26&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+---
+
 ## 📫 Conecta conmigo / Get in touch
 
 <p align="center">
@@ -73,3 +85,8 @@
 </p>
 
 ---
+
+<!-- ✨ Animación de ondas decorativas (opcional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=100&section=footer"/>
+</p>
