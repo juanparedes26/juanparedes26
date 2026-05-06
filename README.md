@@ -1,26 +1,29 @@
 <!-- ✨ Encabezado animado con typing effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BCD4&center=true&vCenter=true&width=700&lines=👋+Hola!+Soy+Juan+Manuel+Paredes;Full+Stack+Developer;Ingeniero+Mecatrónico;Apasionado+por+aprender+y+crear" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BCD4&center=true&vCenter=true&width=750&lines=👋+Hola!+Soy+Juan+Manuel+Paredes;Full+Stack+Developer;Ingeniero+Mecatrónico;React+%7C+Node.js+%7C+Python+%7C+TypeScript;Aprendiendo+y+construyendo+con+propósito" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <b>Full Stack Developer | Ingeniero Mecatrónico</b><br>
-  Apasionado por construir soluciones web funcionales, limpias y con buen diseño.<br>
-  Passionate about building functional, clean, and well-designed web solutions.
+  Construyo soluciones web funcionales combinando desarrollo, automatización y pensamiento analítico.<br>
+  I build functional web solutions by combining development, automation, and analytical thinking.
 </p>
 
 ---
 
 ## 💡 Sobre mí / About me
 
-- 🚀 Desarrollador **Full Stack** enfocado en crear experiencias fluidas de principio a fin.  
-  **Full Stack Developer** focused on building smooth end-to-end experiences.  
-- 🎓 Ingeniero Mecatrónico en formación constante dentro del mundo del desarrollo.  
-  **Mechatronic Engineer**, always learning and evolving in software development.  
-- 📚 Actualmente sigo aprendiendo y fortaleciendo mis habilidades en **desarrollo web**.  
-  Currently learning and strengthening my **web development** skills.  
-- 🧩 Disfruto entender cada parte del código y aprender con propósito.  
-  I enjoy understanding every part of the code and learning with purpose.  
+- 🚀 Desarrollador **Full Stack** enfocado en construir aplicaciones web funcionales de principio a fin.  
+  **Full Stack Developer** focused on building functional end-to-end web applications.
+
+- 🎓 **Ingeniero Mecatrónico** con interés en automatización, análisis de datos y desarrollo de software.  
+  **Mechatronics Engineer** interested in automation, data analysis, and software development.
+
+- ⚙️ Actualmente fortalezco mis habilidades en **React, Node.js, TypeScript, Python, APIs REST y bases de datos**.  
+  Currently strengthening my skills in **React, Node.js, TypeScript, Python, REST APIs, and databases**.
+
+- 🧩 Me gusta entender cómo funcionan las cosas por dentro y construir soluciones con propósito.  
+  I enjoy understanding how things work under the hood and building solutions with purpose.
 
 ---
 
@@ -28,12 +31,12 @@
 
 #### ⚛️ Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap" />
 </p>
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,fastapi,mysql,postgres" />
 </p>
 
 #### 🧠 Herramientas / Tools
@@ -86,7 +89,7 @@
 
 ---
 
-<!-- ✨ Animación de ondas decorativas (opcional) -->
+<!-- ✨ Animación decorativa -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00bcd4&height=100&section=footer"/>
 </p>
